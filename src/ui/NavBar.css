@@ -1,0 +1,11 @@
+div li{
+    list-style:none;
+
+}
+#dropdownID{
+     background-color: white;
+     color: black;
+}
+#navbarDropdownMenuLink{
+    color: gray;
+}
