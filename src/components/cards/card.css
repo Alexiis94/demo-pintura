@@ -1,0 +1,14 @@
+.headerTitle{
+    background-color: #444;
+    color: white;
+    text-align: center;
+    height: 125px;
+    display: table;
+    width: 100%;
+       
+}
+.headerTitle h2{
+    display: table-cell;
+    vertical-align: middle;
+    font-size: 50px;
+}

@@ -5,7 +5,7 @@ import './head.css'
 export const Head = () => {
 
     return (
-        <section className="headerWeb"  >
+        <section className="headerWeb">
             <div className="container" id="centrado">
                 <h1 ><span className="titleHead">Pinturas Roberto Rosales</span> </h1>
                 <p><b>Somo una Empresa </b>comprometida con todos tus proyectos.</p>

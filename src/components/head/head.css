@@ -27,11 +27,9 @@ section h1{
 }
 
 .titleHead{
-      /* standard gradient background */
+   /* standard gradient background */
   /* background: linear-gradient(to right,black, grey); */
-  background: -webkit-linear-gradient(#eee, #333);
-
- /* clip informático */
+  background: linear-gradient(to right, #333333,#B6B6B6);
  -webkit-background-clip: text;
  -webkit-text-fill-color: transparent;
 }
